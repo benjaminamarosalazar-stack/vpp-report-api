@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-docx
+supabase
+requests
+pillow
+docx2pdf
